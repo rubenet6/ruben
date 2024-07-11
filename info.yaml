@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "RGB Mixer demo5"      # Project title
-  author:       "Matt Venn"      # Your name
+  author:       "Ruben Bosch"      # Your name
   discord:      "mattvenn"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Zero to ASIC demo project"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
